@@ -28,3 +28,9 @@ spark-warehouse/
 *.crc
 _SUCCESS
 ._*
+
+# Spark-generated temporary files
+*_spark/
+*.crc
+_SUCCESS
+._*
