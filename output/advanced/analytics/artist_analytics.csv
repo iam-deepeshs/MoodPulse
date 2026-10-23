@@ -1,0 +1,101 @@
+artists,track_count,avg_popularity,avg_energy,avg_valence
+Sam Smith;Kim Petras,2,100.0,0.472,0.238
+Bizarrap;Quevedo,1,99.0,0.782,0.55
+Manuel Turizo,4,98.0,0.679,0.85
+Bad Bunny;Chencho Corleone,4,97.0,0.712,0.425
+Bad Bunny;Bomba Estéreo,4,94.5,0.686,0.268
+Joji,1,94.0,0.317,0.268
+Beyoncé,1,93.0,0.689,0.642
+Harry Styles,3,92.0,0.759,0.627
+Rema;Selena Gomez,1,92.0,0.806,0.802
+Rauw Alejandro;Lyanno;Brray,2,91.0,0.828,0.58
+Drake;21 Savage,1,91.0,0.673,0.366
+Luar La L,4,90.5,0.756,0.461
+Bad Bunny;Tony Dize,3,90.0,0.786,0.579
+Bad Bunny;Rauw Alejandro,3,90.0,0.799,0.471
+Ruth B.,1,90.0,0.692,0.454
+Shakira;Rauw Alejandro,1,90.0,0.636,0.575
+Elley Duhé,1,90.0,0.611,0.09
+The Weeknd;Gesaffelstein,1,90.0,0.737,0.155
+Beach Weather,1,90.0,0.839,0.465
+Nicki Minaj,3,89.0,0.887,0.916
+Mora;Feid,1,89.0,0.789,0.464
+Billie Eilish;Khalid,1,89.0,0.296,0.12
+Future;Drake;Tems,1,89.0,0.642,0.339
+Lost Frequencies;Calum Scott,3,88.0,0.636,0.262
+Pablo Pesadilla;Polimá Westcoast;Nickoog Clk;Fran C,1,88.0,0.747,0.432
+J. Cole,1,88.0,0.521,0.494
+The Kid LAROI;Justin Bieber,4,87.5,0.764,0.478
+Olivia Rodrigo,5,87.4,0.498,0.285
+Bad Bunny,48,87.08,0.647,0.49
+Bad Bunny;Jhayco,8,87.0,0.629,0.282
+Imanbek;BYOR,4,87.0,0.797,0.422
+benny blanco;BTS;Snoop Dogg,3,87.0,0.861,0.955
+Tainy;Bad Bunny;Julieta Venegas,3,87.0,0.703,0.138
+Yung Gravy,1,87.0,0.772,0.58
+Lewis Capaldi,1,87.0,0.405,0.446
+Conan Gray,1,87.0,0.425,0.27
+Chris Brown,4,86.5,0.655,0.385
+Bad Bunny;Buscabulla,2,86.0,0.616,0.451
+Benson Boone,1,86.0,0.54,0.3
+Eminem;Nate Dogg,1,86.0,0.847,0.1
+Eminem;Dina Rae,1,86.0,0.755,0.58
+Justin Bieber;Daniel Caesar;Giveon,1,86.0,0.696,0.464
+Alesso;Zara Larsson,3,85.0,0.586,0.444
+Piso 21;Manuel Turizo,3,85.0,0.73,0.421
+Bad Bunny;The Marías,2,85.0,0.595,0.546
+Gesaffelstein;The Weeknd,2,85.0,0.671,0.166
+Rauw Alejandro;Baby Rasta,1,85.0,0.826,0.201
+Mora;Jhayco,1,85.0,0.707,0.317
+Eminem;Dido,1,85.0,0.768,0.507
+James Arthur,1,85.0,0.557,0.494
+Camila Cabello;Ed Sheeran,2,84.5,0.697,0.956
+Lil Nas X;Jack Harlow,3,84.33,0.7,0.893
+Marshmello;Khalid,10,84.0,0.768,0.459
+The Chainsmokers;Halsey,5,84.0,0.524,0.661
+Zion & Lennox,4,84.0,0.697,0.554
+IVE,3,84.0,0.787,0.641
+Bad Bunny;Daddy Yankee,3,84.0,0.868,0.586
+Yot Club,2,84.0,0.537,0.228
+Doja Cat;The Weeknd,2,84.0,0.621,0.436
+Shakira;Wyclef Jean,2,84.0,0.824,0.758
+Alok;Ella Eyre;Kenny Dope;Never Dull,2,84.0,0.818,0.886
+Drake,1,84.0,0.449,0.357
+Tate McRae,1,84.0,0.373,0.082
+Giveon,1,84.0,0.465,0.543
+Lady Gaga;Bradley Cooper,1,84.0,0.385,0.323
+Maroon 5;Wiz Khalifa,1,84.0,0.752,0.545
+Lil Nas X,7,83.71,0.636,0.584
+Måneskin,12,83.67,0.725,0.633
+Kendrick Lamar,2,83.5,0.646,0.415
+Foster The People,2,83.5,0.71,0.965
+Morgan Wallen,3,83.33,0.729,0.534
+One Direction,5,83.0,0.688,0.537
+Becky G;KAROL G,4,83.0,0.702,0.901
+Wisin & Yandel;ROSALÍA,3,83.0,0.727,0.644
+Jax Jones;MNEK,3,83.0,0.782,0.502
+Dr. Dre;Snoop Dogg,3,83.0,0.82,0.454
+Bad Bunny;Ozuna;Farruko;Arcangel;Ñengo Flow;DJ Luian;Mambo Kingz,2,83.0,0.56,0.287
+XXXTENTACION;Trippie Redd,2,83.0,0.533,0.329
+Rauw Alejandro;Chencho Corleone,2,83.0,0.694,0.511
+Ariana Grande;Justin Bieber,2,83.0,0.45,0.537
+Eminem;Juice WRLD,1,83.0,0.745,0.829
+Mora;Bad Bunny;Sech,1,83.0,0.688,0.632
+50 Cent,1,83.0,0.713,0.777
+Capital Cities,1,83.0,0.819,0.766
+TOTO,1,83.0,0.373,0.732
+Elton John;Dua Lipa;PNAU,1,83.0,0.8,0.934
+Drake;Travis Scott,1,83.0,0.465,0.292
+Kendrick Lamar;SZA,1,83.0,0.633,0.552
+Vacations,1,83.0,0.81,0.594
+Aventura;Bad Bunny,1,83.0,0.86,0.791
+Crush;j-hope,1,83.0,0.714,0.74
+Future,1,83.0,0.434,0.281
+Mark Ronson;Bruno Mars,1,83.0,0.609,0.928
+24kGoldn;iann dior,1,83.0,0.716,0.732
+Eminem;Rihanna,1,83.0,0.925,0.641
+Paulo Londra;Duki,1,83.0,0.665,0.546
+TV Girl,5,82.0,0.842,0.573
+Bad Bunny;ROSALÍA,3,82.0,0.618,0.391
+Gym Class Heroes;Adam Levine,2,82.0,0.795,0.796
+Charlie Puth;Selena Gomez,2,82.0,0.563,0.352

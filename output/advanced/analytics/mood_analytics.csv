@@ -1,0 +1,6 @@
+mood_category,track_count,avg_energy,avg_valence,avg_danceability,percentage
+Neutral,53598,0.691,0.345,0.517,47.14
+Energetic,26181,0.82,0.777,0.646,23.03
+Sad,14292,0.216,0.195,0.427,12.57
+Happy,11334,0.471,0.76,0.653,9.97
+Party,8297,0.738,0.454,0.774,7.3

@@ -1,0 +1,16 @@
+feature_1,feature_2,pearson_correlation
+popularity,energy,-3.785414805951663e-05
+popularity,danceability,0.03557504267543633
+popularity,valence,-0.04071232576205594
+popularity,acousticness,-0.024008487634923387
+popularity,tempo,0.013913731134887567
+energy,danceability,0.12407207391696806
+energy,valence,0.2543925079950388
+energy,acousticness,-0.7349949779728968
+energy,tempo,0.23927264106693694
+danceability,valence,0.4732427022356575
+danceability,acousticness,-0.16828350865781977
+danceability,tempo,-0.07122808724176231
+valence,acousticness,-0.10490222391258774
+valence,tempo,0.068360184251898
+acousticness,tempo,-0.20709734599904694

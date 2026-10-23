@@ -1,0 +1,15 @@
+{
+  "project": "MoodPulse",
+  "run_timestamp_utc": "2026-10-23T10:48:55.241013+00:00",
+  "input": "data/Spotify.csv",
+  "raw_records": 114000,
+  "exact_duplicates_removed": 0,
+  "processed_records": 113702,
+  "records_removed_after_dedup": 298,
+  "retention_percentage": 99.74,
+  "cluster_count": 4,
+  "random_seed": 42,
+  "silhouette_score": 0.30311541402592734,
+  "spark_version": "4.2.0",
+  "processing_seconds": 27.42
+}
